@@ -1,0 +1,41 @@
+.social-part .fa{
+    padding-right:20px;
+    font-size: 25px;
+}
+ul li a{
+    margin-right: 5px;
+}
+
+a{
+    cursor: pointer;
+}
+
+  
+.fs-16{
+    font-size: 16pt;
+}
+
+.fa-facebook{
+    color:#3b5998;
+}
+
+.fa-instagram{
+    color: #E1306C;
+}
+
+#fface:hover{
+    color: black;
+}
+
+#ttwitter:hover{
+    color: black;
+}
+
+#fface:hover{
+    color: black;
+}
+
+#iinsta:hover{
+    color: black;
+}
+
